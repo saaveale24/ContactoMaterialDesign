@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="fsize">20dp</dimen>
+    <dimen name="margin5">5dp</dimen>
+    <dimen name="margin20">20dp</dimen>
+    <dimen name="margin40">40dp</dimen>
+    <dimen name="tfnac">130dp</dimen>
+    <dimen name="ttelefono">30dp</dimen>
+    <dimen name="temail">50dp</dimen>
+    <dimen name="tdescripcion">90dp</dimen>
+    <dimen name="tsize">22dp</dimen>
+    <dimen name="mnombre">10dp</dimen>
+    <dimen name="mtitulo">15dp</dimen>
+    <dimen name="meditarDato">35dp</dimen>
+</resources>

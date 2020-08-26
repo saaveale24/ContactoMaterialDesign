@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">ContactoMaterialDesign</string>
+    <string name="hnombre">Nombre completo</string>
+    <string name="hfnac">Fecha Nacimiento</string>
+    <string name="htelefono">Teléfono</string>
+    <string name="hemail">Email</string>
+    <string name="hdesc">Descripción Contacto</string>
+    <string name="siguiente">Siguiente</string>
+    <string name="titulo">Confirmar Datos</string>
+    <string name="tfnac">Fecha Nacimiento:</string>
+    <string name="ttelefono">Tel.</string>
+    <string name="temail">Email:</string>
+    <string name="tdescripcion">Descripción:</string>
+    <string name="editarDato">Editar Datos</string>
+    <string name="ejmnombre">Lorena Fernández López</string>
+    <string name="ejmfnac">12/12/1987</string>
+    <string name="ejmtelefono">55553333</string>
+    <string name="ejmemail">lorena@gmail.com</string>
+    <string name="ejmdescripcion">Conocí a Lorena en el Restaurante de comida italiana</string>
+
+    <string name="pnombre">NOMBRE</string>
+    <string name="pfnac">FNAC</string>
+    <string name="ptelefono">TELEFONO</string>
+    <string name="pemail">EMAIL</string>
+    <string name="pdescripcion">DESCRIPCION</string>
+    <string name="panio">ANIO</string>
+    <string name="pmes">MES</string>
+    <string name="pdia">DIA</string>
+</resources>
